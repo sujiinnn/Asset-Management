@@ -22,7 +22,7 @@ public class main extends javax.swing.JFrame {
                     setResizable(false);
                     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                     
-                    
+                 
     }
 
     /**
@@ -148,7 +148,7 @@ public int CheckAuth(String ID,String Pw){
                     
                     int temp =0;
         try {
-                File file = new File("C:\\Users\\sujin\\tester\\tester\\members.txt");
+                File file = new File("members.txt");
                 FileInputStream fis = new FileInputStream(file);
                 InputStreamReader isr = new InputStreamReader(fis);
                 BufferedReader br = new BufferedReader(isr);
