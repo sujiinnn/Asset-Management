@@ -99,7 +99,7 @@ public class UserMainScreen extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        new user();
+        new AddAccount();
         
 
     }//GEN-LAST:event_jButton1ActionPerformed

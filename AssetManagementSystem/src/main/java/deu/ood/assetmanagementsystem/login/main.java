@@ -1,7 +1,7 @@
 package deu.ood.assetmanagementsystem.login;
 
 import deu.ood.assetmanagementsystem.login.signup;
-import deu.ood.assetmanagementsystem.login.user;
+import deu.ood.assetmanagementsystem.login.AddAccount;
 import deu.ood.assetmanagementsystem.login.admin;
 import java.io.BufferedReader;
 import java.io.File;
