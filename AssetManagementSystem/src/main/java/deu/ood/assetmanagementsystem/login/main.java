@@ -135,7 +135,7 @@ new signup();        // TODO add your handling code here:
                         case 2:
                             JOptionPane.showMessageDialog(null, "로그인 성공");
                             
-                            new user();
+                            new UserMainScreen();
                             break;
                         case 0:
                             JOptionPane.showMessageDialog(null, "로그인 실패");
